@@ -11,9 +11,13 @@ I am an Information Technology student at St. Joseph's College of Engineering.I 
 
 # Projects
 Number Guessing Game using Python 
+
 Calculator using   C 
-To-Do List (CLI) using Python Lists, file handling 
+
+To-Do List (CLI) using Python Lists, file handling
+
 Student Marks Manager using C Structures, arrays, files 
+
 Password Generator using Python Strings, modules 
 
 
